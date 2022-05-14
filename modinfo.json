@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Primal",
+    "name": "Primal world",
+    "authors": [ "Tyzegt" ],
+    "maintainers": [ "Tyzegt" ],
+    "description": "Primal world, set size of cities to 0",
+    "category": "total_conversion",
+    "dependencies": [ "dda" ],
+    "obsolete": false
+  }
+]

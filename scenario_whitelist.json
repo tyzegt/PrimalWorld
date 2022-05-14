@@ -1,0 +1,10 @@
+[
+  {
+    "type": "SCENARIO_BLACKLIST",
+    "subtype": "whitelist",
+    "scenarios": [
+      "cave",
+	  "field"
+    ]
+  }
+]
